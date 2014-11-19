@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<domain>
+  <!--Assignment 3 - Development of a Spoken Dialogue System-->
+  <initialstate>
+    <!--(optional) initial state variables -->
+  </initialstate>
+  <parameters>
+    <!--(optional) prior distributions for rule parameters-->
+  </parameters>
+  <settings>
+    <modules>opendial.plugins.NuanceSpeech</modules>
+    <id>NMDPTRIAL_garash8420141029160511</id>
+    <key>d89a8e437c74b8cc9b73e0eef132adce26889142e1ffd000c4729adcaaa95c8244eac5c05e7e8cf9f16de7e29f95b1c51d4207fe41d7fe054998e1f4423d7686</key>
+    <lang>nor-NOR</lang>
+  </settings>
+  <model trigger="u_u">
+    <rule>
+      <case/>
+    </rule>
+  </model>
+</domain>
